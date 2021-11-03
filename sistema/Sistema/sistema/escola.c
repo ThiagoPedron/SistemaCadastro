@@ -1,0 +1,6 @@
+#ifndef ESCOLA_C_INCLUDED
+#define ESCOLA_C_INCLUDED
+
+
+
+#endif // ESCOLA_C_INCLUDED

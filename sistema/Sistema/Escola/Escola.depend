@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635943833 source:c:\users\aluno\desktop\sistema\escola\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aluno.h"
+
+1635950859 c:\users\aluno\desktop\sistema\escola\aluno.h
+	<stdio.h>
+	<stdlib.h>
+
